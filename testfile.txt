@@ -1,0 +1,4 @@
+google.com
+microsoft.com
+twitter.com
+instagram.com
